@@ -20,6 +20,8 @@ This project transforms raw IPL 2026 match, batting, bowling, fielding, and poin
 ## 🗂️ Dashboard Pages
 <img width="1918" height="1015" alt="Screenshot 2026-07-09 203042" src="https://github.com/user-attachments/assets/29043edd-e927-4ec7-8250-7432fdc7468f" />
 
+<img width="1918" height="1012" alt="Screenshot 2026-07-09 203105" src="https://github.com/user-attachments/assets/42e582d2-e9a0-4f54-b409-1b41988a743c" />
+
 
 
 
