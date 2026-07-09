@@ -1,33 +1,70 @@
 # IPL 2026 - Complete Dataset
 
-## Key Statistics (So far)
-- **Most Runs**: Abhishek Sharma (SRH) - 380 runs
-- **Most Wickets**: Bhuvneshwar Kumar (RCB) - 14 wickets
-- **Best Batting Strike Rate**: Priyansh Arya (PBKS) - 249.01
-- **Best Bowling Economy**: Mohsin Khan (LSG) - 6.37
-- **Boundary Meter**: Sixes - 691, Fours - 1207
-- **Player of the Tournament**: Vaibhav Sooryavanshi (RR)
-- **Centuries in Tournament**: 8
-- **Lowest Total**: DC - 75/10 vs RCB
-- **Highest Total**: PBKS - 265/4 vs DC
+# 🏏 IPL 2026 — Season Analytics Dashboard
 
-<!--
-- **Best Bowling**: _ (_) - _/_ vs _
--->
- 
-## Notable Records Set
-1. **Fastest Century**: Vaibhav Sooryavanshi (RR) - 36 balls vs SRH
-2. **Highest Individual Score (Indian)**: KL Rahul (DC) - 152 runs vs PBKS
-3. **Highest Successful Run Chase**: PBKS - chased 264+ runs vs DC
-4. **Most Runs in a Day**: 986 (April 25, 2026)
-5. **Fastest 50s**: Vaibhav Sooryavanshi (RR), Abhishek Sharma (SRH) - 15 balls
-6. **Most Sixes in a Day**: 59 (April 25, 2026)
+An interactive Power BI dashboard analyzing the complete IPL 2026 season — match results, player performance, team standings, and season trends across 3 dedicated pages.
 
-## Data Sources
-Data is compiled from ESPNcricinfo, IPL official website, and Google.
 
-## License
-This dataset is for educational and analytical purposes. 
+C:\Users\Acer\OneDrive\Pictures\Screenshots
+---
 
-## Tags
-cricket, t20, 2026, india, ipl, sports-analytics
+## 📊 Overview
+
+This project transforms raw IPL 2026 match, batting, bowling, fielding, and points table data into a clean, multi-page interactive dashboard. It covers everything from tournament-wide KPIs to individual player spotlights and a final executive season summary.
+
+**Key Numbers from the Dataset:**
+- 🏟️ **39** matches played
+- 🏃 **5,000+** total runs scored
+- 🎯 **165** total wickets taken
+- 🔥 **152** highest individual score
+- 💥 **270** total sixes hit
+- 🏆 **Punjab Kings** — League Table Topper (13 points)
+- 👑 **Royal Challengers Bengaluru (RCB)** — Season Champions
+
+---
+
+## 🗂️ Dashboard Pages
+
+### 1️⃣ Overview
+Tournament-wide summary combining team standings, bowling & batting performance, toss trends, and a full player statistics table.
+
+- KPI cards: Total Matches, Runs, Wickets, Highest Score, Sixes
+- Bowling & Batting scatter analysis (Economy vs Wickets, Strike Rate vs Average)
+- Points table snapshot (Wins, Defeats, NRR)
+- Toss decision breakdown (Bat vs Bowl)
+- Match-by-match run trend
+- Full batting leaderboard with sortable stats
+
+![Overview Page](screenshots/overview.png)
+
+### 2️⃣ Player Spotlight
+A visual, map-driven look at team home venues alongside the season's standout individual performers.
+
+- Interactive map of home venues by team
+- 🧡 **Orange Cap** — Most Runs (Abhishek Sharma, 380 runs)
+- 💜 **Purple Cap** — Most Wickets (9-wicket tie between multiple bowlers)
+
+![Player Spotlight Page](screenshots/player_spotlight.png)
+
+### 3️⃣ Season Summary
+An executive, report-style summary of the full season — built for a quick, high-level read.
+
+- Headline KPI banners (Matches, Highest Score, Sixes, Table Topper)
+- Full points table with conditional formatting
+- Toss decision impact
+- Season-long scoring trend line
+
+![Season Summary Page](screenshots/season_summary.png)
+
+---
+
+## 🛠️ Built With
+
+- **Power BI Desktop** — data modeling, DAX measures, and visualization
+- **Dataset**: IPL 2026 season data (matches, deliveries, batting/bowling/fielding stats, points table, squads, venues)
+
+---
+
+## 📁 Repository Structure
+
+
