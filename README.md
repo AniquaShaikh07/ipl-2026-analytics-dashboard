@@ -1,12 +1,6 @@
 # IPL 2026 - Complete Dataset
 
-# 🏏 IPL 2026 — Season Analytics Dashboard
-
 An interactive Power BI dashboard analyzing the complete IPL 2026 season — match results, player performance, team standings, and season trends across 3 dedicated pages.
-
-
-C:\Users\Acer\OneDrive\Pictures\Screenshots
----
 
 ## 📊 Overview
 
@@ -25,6 +19,11 @@ This project transforms raw IPL 2026 match, batting, bowling, fielding, and poin
 
 ## 🗂️ Dashboard Pages
 
+C:\Users\Acer\OneDrive\Pictures\Screenshots\Screenshot 2026-07-09 203042.png
+C:\Users\Acer\OneDrive\Pictures\Screenshots\Screenshot 2026-07-09 203105.png
+C:\Users\Acer\OneDrive\Pictures\Screenshots\Screenshot 2026-07-09 203138.png
+
+
 ### 1️⃣ Overview
 Tournament-wide summary combining team standings, bowling & batting performance, toss trends, and a full player statistics table.
 
@@ -35,16 +34,12 @@ Tournament-wide summary combining team standings, bowling & batting performance,
 - Match-by-match run trend
 - Full batting leaderboard with sortable stats
 
-![Overview Page](screenshots/overview.png)
-
 ### 2️⃣ Player Spotlight
 A visual, map-driven look at team home venues alongside the season's standout individual performers.
 
 - Interactive map of home venues by team
 - 🧡 **Orange Cap** — Most Runs (Abhishek Sharma, 380 runs)
 - 💜 **Purple Cap** — Most Wickets (9-wicket tie between multiple bowlers)
-
-![Player Spotlight Page](screenshots/player_spotlight.png)
 
 ### 3️⃣ Season Summary
 An executive, report-style summary of the full season — built for a quick, high-level read.
@@ -54,7 +49,6 @@ An executive, report-style summary of the full season — built for a quick, hig
 - Toss decision impact
 - Season-long scoring trend line
 
-![Season Summary Page](screenshots/season_summary.png)
 
 ---
 
@@ -63,8 +57,5 @@ An executive, report-style summary of the full season — built for a quick, hig
 - **Power BI Desktop** — data modeling, DAX measures, and visualization
 - **Dataset**: IPL 2026 season data (matches, deliveries, batting/bowling/fielding stats, points table, squads, venues)
 
----
-
-## 📁 Repository Structure
-
+"C:\Users\Acer\Desktop\Aniqua (folder)\archive (2)\IPL Dashboard.pbix"
 
