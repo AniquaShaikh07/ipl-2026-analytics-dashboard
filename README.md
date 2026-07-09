@@ -62,5 +62,5 @@ An executive, report-style summary of the full season — built for a quick, hig
 - **Power BI Desktop** — data modeling, DAX measures, and visualization
 - **Dataset**: IPL 2026 season data (matches, deliveries, batting/bowling/fielding stats, points table, squads, venues)
 
-"C:\Users\Acer\Desktop\Aniqua (folder)\archive (2)\IPL Dashboard.pbix"
+
 
