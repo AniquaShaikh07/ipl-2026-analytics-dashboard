@@ -19,9 +19,7 @@ This project transforms raw IPL 2026 match, batting, bowling, fielding, and poin
 
 ## 🗂️ Dashboard Pages
 
-C:\Users\Acer\OneDrive\Pictures\Screenshots\Screenshot 2026-07-09 203042.png
-C:\Users\Acer\OneDrive\Pictures\Screenshots\Screenshot 2026-07-09 203105.png
-C:\Users\Acer\OneDrive\Pictures\Screenshots\Screenshot 2026-07-09 203138.png
+
 
 
 ### 1️⃣ Overview
